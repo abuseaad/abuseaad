@@ -35,30 +35,6 @@ const sadik = {
 
 <img src="./assets/dna-code.svg" alt="DNA helix" width="100%" />
 
-## 🩺 Featured Projects (Case Files)
-
-| Case | Diagnosis (what it does) | Treatment (stack) |
-|---|---|---|
-| [**AI-Powered Evangadi Forum**](https://github.com/abuseaad/REPO-NAME) | Q&A forum with Gemini-based semantic search and RAG | Node, Express, MySQL, Gemini API |
-| [**GPT Clone**](https://github.com/abuseaad/REPO-NAME) | ChatGPT-style chat app with authentication | React, Express, MySQL, Gemini |
-| [**Portfolio**](https://github.com/abuseaad/REPO-NAME) | Personal portfolio rebuilt from a template to React | React, Vite |
-| [**devTeam Forum**](https://github.com/walidabdulkadir/forum) | Team forum backend with auth module | Node, Express, MySQL |
-
-<img src="./assets/pipeline.svg" alt="Request pipeline as a clinical workflow" width="100%" />
-
-## 📊 Vital Signs (GitHub Stats)
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abuseaad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=07141a" />
-<img height="170" src="https://streak-stats.demolab.com?user=abuseaad&theme=tokyonight&hide_border=true&background=07141A" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abuseaad&bg_color=07141a&color=00f5d4&line=00bbf9&point=ffffff&area=true&hide_border=true" width="100%" />
-
-</div>
-
 ## 📬 Contact
 
 <div align="center">
